@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+body{
+    background-color:#E6EFF6;
+}
+  .text{
+      text-align: left;
+      font-family: 'Karla', sans-serif;
+      padding-left: 30px;
+      font-size: 16px;
+  }
+  span{
+      color: #93d6d7;
+  }
+  h2{
+    color: #bfdf32;
+  }
+  h3{
+      color: gray;
+  }
+  h1{
+  }
+   #box{
+       width: 750px;
+       height:500px;
+       margin:auto;
+       position:absolute;
+       background-color: white;
+       top: 0;
+       bottom: 0;
+       left: 0;
+       right: 0;
+       border-radius: 7px;
+       box-shadow:  0 0 10px  rgba(0,0,0,0.2);
+       -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+       -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+       -o-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+   }
+   #box2{
+    width: 750px;
+    height:250px;
+    margin:auto;
+    position:absolute;
+    background-color: 	#2BB3B1;
+    top: 1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+}
+#box3{
+    width: 375px;
+    height:250px;
+    margin:auto;
+    position:absolute;
+    background-color: #4ABEBD;
+    top: 1;
+    bottom: 0;
+    left: 1;
+    right: 0;
+    float:right;
+   
+}
+.h1{
+      font-family: 'Karla', sans-serif;
+      font-size: 20px; 
+      text-align: justify;
+      padding-left: 30px;
+      color: white;
+}
+.span{
+    font-family: 'Karla', sans-serif;
+    font-size: 35px; 
+    padding-left: 30px;
+    color: white;
+}
+.span1{
+    font-family: 'Karla', sans-serif;
+    font-size: 15px; 
+    padding-left: 7px;
+    color: 
+    font-weight: 100;
+}
+.h2{
+    font-family: 'Karla', sans-serif;
+    font-size: 20px; 
+    text-align: justify;
+    padding-left: 30px;
+    color: white;
+    font-weight: 200;
+}
+.fill {
+    font-family: 'Karla', sans-serif;
+    background-color: #bfdf32;
+    border: none;
+    color: white;
+    padding: 15px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 27px;
+    cursor: pointer;
+    border-radius: 7px;
+    box-shadow:  0 0 0px  rgba(0,0,0,0.3);
+       -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.3);
+       -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.3);
+       -o-box-shadow: 0 0 10px  rgba(0,0,0,0.3);
+  }
+  .fill:hover,
+  .fill:focus {
+    box-shadow: inset 0 0 0 2em var(--hover);
+  }
+  p{
+    font-family: 'Karla', sans-serif;
+      font-size:13px;
+     text-align: left;
+     padding-left:30px;
+     color:White;
+     line-height: 0.8;
+     
+  }
+  .attribution{
+    position: absolute;
+    bottom: 0;
+    width: 97%;
+    text-align: left;
+    color: black;
+    font-size: large;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
